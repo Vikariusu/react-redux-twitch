@@ -1,0 +1,19 @@
+{
+  "streams": [
+    {
+      "title": "fds",
+      "description": "fdsfsd",
+      "id": 1
+    },
+    {
+      "title": "Another stream",
+      "description": "Some stream ",
+      "id": 2
+    },
+    {
+      "title": "Title here",
+      "description": "And desc",
+      "id": 3
+    }
+  ]
+}
